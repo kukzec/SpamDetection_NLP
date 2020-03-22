@@ -34,4 +34,3 @@ Almeida, T.A., GÃ³mez Hidalgo, J.M., Yamakami, A. Contributions to the Study o
 
 [Master ESA](https://www.univ-orleans.fr/deg/masters/ESA/index.htm)
 
-[Github](https://github.com/loicpalma/Shiny_App)
