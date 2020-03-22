@@ -1,4 +1,4 @@
-# **Machine Learning: Natural Language Processing - Project**
+# **Natural Language Processing - Project**
 
 Work done for the Spring 2020 class of Machine Learning with Python at ESA Master's degree. The instructor was Joseph Basquin.
 
