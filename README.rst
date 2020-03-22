@@ -1152,7 +1152,7 @@ Citation information: |DOI| (publication), |DOI-code| (code)
 
 |README-Hits| (Since 19 May 2016)
 
-.. |Logo| image:: https://raw.githubusercontent.com/tqdm/tqdm/master/images/logo.gif
+.. |Logo| image:: https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdeep-learning&psig=AOvVaw3jGpubHbO5tKt8wt0k3uD3&ust=1584973826268000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCHiOGlrugCFQAAAAAdAAAAABAN
 .. |Screenshot| image:: https://raw.githubusercontent.com/tqdm/tqdm/master/images/tqdm.gif
 .. |Video| image:: https://raw.githubusercontent.com/tqdm/tqdm/master/images/video.jpg
    :target: https://tqdm.github.io/video
