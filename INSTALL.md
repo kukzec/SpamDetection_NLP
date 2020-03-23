@@ -20,4 +20,5 @@ nltk==3.4.5
 matplotlib==3.2.1
 numpy==1.18.2
 scikit_learn==0.22.2.post1
+seaborn==0.10.0
  ```
