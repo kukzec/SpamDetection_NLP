@@ -6,7 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
-# h5df
+# model.save
+h5df/
 
 # Distribution / packaging
 .Python
