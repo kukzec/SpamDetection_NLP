@@ -91,7 +91,7 @@ statsmodels==0.11.1
 talos==0.6.6
 tb-nightly==1.14.0a20190603
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==1.15.2
 tensorflow-datasets==2.1.0
 tensorflow-estimator==1.14.0
 tensorflow-metadata==0.21.1
