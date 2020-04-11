@@ -4,6 +4,7 @@ __pycache__/
 
 # model.save
 pickle/
+models/
 
 #logs
 logs/
