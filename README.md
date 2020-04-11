@@ -28,7 +28,7 @@ This corpus has been collected from free or free for research sources at the Int
 
 # Approach
 
-➡ Pre-process the data
+➡ Pre-process the data  
 ➡ Instantiate different models (Bag-Of-Words, LSTM, ...)  
 ➡ Benchmark  
 ➡ HyperParameters optimization  
