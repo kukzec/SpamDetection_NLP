@@ -5,6 +5,7 @@ __pycache__/
 # model.save
 pickle/
 models/
+h5df/
 
 #logs
 logs/
