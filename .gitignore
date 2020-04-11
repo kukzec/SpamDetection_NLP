@@ -9,9 +9,5 @@ models/
 #logs
 logs/
 
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
-
 # Jupyter Notebook
 .ipynb_checkpoints
