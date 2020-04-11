@@ -1,1 +1,1 @@
-Folder to drop our models in
+This folder contains the results of our models.
