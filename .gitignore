@@ -3,16 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# model.save
-h5df/
-pickle/
-
 #logs
 logs/
-
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
 
 # Jupyter Notebook
 .ipynb_checkpoints
